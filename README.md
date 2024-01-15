@@ -1,6 +1,6 @@
 # Automated_Hangman
 
-The project provides autmated guesses of the letters in the game of hangman. The repository contains 3 notebooks -  one for data creation, one for model training and one for model testing and actual game playing. You can either train your own model on your own dictionary of words named "dictionary.csv" OR download my trained CatBoost model at https://shorturl.at/ejDNV
+The project provides automated guesses of the letters in the game of hangman. The repository contains 3 notebooks -  one for data creation, one for model training and one for model testing and actual game playing. You can either train your own model on your own dictionary of words named "dictionary.csv" OR download my trained CatBoost model at https://shorturl.at/ejDNV
 
 The working and logic behind the solution is provided in the link containing the model itself.
 
