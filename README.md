@@ -10,7 +10,7 @@ The entire model structure combined with two algorithms gives a pretty good accu
 
 ## DATASET CREATION 
 
-Replace the name "words_250000_train.txt" in the ipynb and perform full creation of the dataset. The code utilises multicore processing on your device for faster processing. The size magnification is huge though so keep in mind the words you want to train your model on. For e.g. the dataset I created used 25k words and the size of the embedding dataset was around 1.5GB in .csv and 400 MB in .parquet.
+Replace the name "words_250000_train.txt" in the ipynb and perform full creation of the dataset. The code utilises multicore processing on your device for faster processing. The size magnification is huge though so keep in mind the words you want to train your model on. For e.g. the dataset I created used 250k words and the size of the embedding dataset was around 1.5GB in .csv and 400 MB in .parquet.
 
 ## MODEL TRAINING 
 
